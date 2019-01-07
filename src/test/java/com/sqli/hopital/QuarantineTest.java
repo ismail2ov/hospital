@@ -1,5 +1,6 @@
 package com.sqli.hopital;
 
+import com.sqli.hopital.application.Quarantine;
 import org.junit.Before;
 import org.junit.Test;
 
